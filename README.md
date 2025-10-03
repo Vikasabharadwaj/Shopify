@@ -182,7 +182,7 @@ This section summarizes the **Power BI measures** used in the Shopify project, a
 
 ## 📊 Dashboard Summaries & Key Insights
 
-![Shopify Sales Dashboard](PowerBi/Report.png)
+![Shopify Sales Dashboard](PowerBi/Shopify.png)
 ![Shopify Report](PowerBi/Report.png)
 
 ---
