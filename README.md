@@ -180,10 +180,10 @@ This section summarizes the **Power BI measures** used in the Shopify project, a
 
 ---
 
-## Dashboard Screenshot
+## 📊 Dashboard Summaries & Key Insights
 
 ![Shopify Sales Dashboard](Powerbi/Shopify.png)
-![Shopify Sales Dashboard](Powerbi/Report.png)
+![Shopify Report](Powerbi/Report.png)
 
 ---
 
