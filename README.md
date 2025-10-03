@@ -65,7 +65,7 @@ The following SQL queries were written and executed to answer key business quest
 10. **What is the customer distribution by state?**  
 
 ---
-🔍 SQL queries? Check them out here: [project sql folder](/Sql/Sql_Querries.sql)
+🔍 SQL queries? Check them out here: [project sql folder](/Sql/Sql_Queries.sql)
 
 ---
 
